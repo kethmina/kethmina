@@ -1,0 +1,109 @@
+<html lang="en">
+<head>
+      <meta charset="utf-8">
+	  <title>
+	        The standard desk
+	  </title>
+</head>
+<body background="C:\Users\kethmina\Desktop\assignment 2/table.jpg" link="#fff" alink="#FFFFFF" vlink="#FFFFFF">
+<br/> 
+<h3 align="center" >
+<font face="lato" size="6">Standard desk</font>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+<font face="cinzel">
+<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/Home%20page.html';">Home</button>&nbsp;&nbsp;&nbsp;
+<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/rising%20desk.html';">Rising desks</button>&nbsp;&nbsp;&nbsp;
+<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/cart.html';">Cart</button>&nbsp;&nbsp;&nbsp;
+<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/health%20benefits.html';">Health benefits</button>&nbsp;&nbsp;&nbsp;
+<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/contact%20us.html';">contact us</button>&nbsp;&nbsp;&nbsp;
+</h3>
+<br/><br/>
+
+<html>
+<body background="C:\Users\kethmina\Desktop\assignment 2/table.jpg" link="#fff" alink="#FFFFFF" vlink="#FFFFFF">
+<head>
+<title>Standing desks selling page</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	
+    <link rel="stylesheet" href="style.css">
+    <title>Responsive Product Cards design with HTML and CSS</title>
+</head>
+ <body>
+    <div class="gallery">
+        <div class="content">
+            <img src="art-aa-4.jfif" alt="Shoes">
+			<p>Desks</p>
+			<p>Wooden desk for artwork</p>
+			<h6>Buy now</h6>
+			<ul>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  
+			</ul>
+			<button class="buy-1">$500.00</button>
+			<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/cart.html';">Buy this Desk</button>&nbsp;&nbsp;&nbsp
+        </div>
+    </div>
+	 <div class="gallery">
+        <div class="content">
+            <img src="computer-cc-3.jfif" alt="Shoes">
+			<p>Desks</p>
+			<p>Metle builded  gaming computer table</p>
+			<h6>BUY NOW</h6>
+			<ul>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  
+			</ul>
+			<button class="buy-2">$1400.00</button>
+        </div>
+    </div>
+	<div class="gallery">
+        <div class="content">
+            <img src="image-gg-1.jpg" alt="Shoes">
+			<p>Desks</p>
+			<p>Wooden Education Desks</p>
+			<h6>BUY NOW</h6>
+			<ul>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  
+			</ul>
+			<button class="buy-3">$1200.00</button>
+        </div>
+    </div>
+	<div class="gallery">
+        <div class="content">
+            <img src="kids-ss-2.jfif" alt="Shoes">
+			<p>Desks</p>
+			<p>Simple Desks for Education and office work</p>
+			<h6>BUY NOW</h6>
+			<ul>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  <li><i class="fa fa-star checked></i></li>
+			  
+			</ul>
+			<button class="buy-4">$800.00</button>
+        </div>
+    </div>
+ </body>
+</html>
+<button onclick="window.location.href='file:///C:/Users/kethmina/Desktop/assignment%202/cart.html';">Buy this Desk</button>&nbsp;&nbsp;&nbsp

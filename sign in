@@ -1,0 +1,9 @@
+<h3 align="center" >
+<font face="lato" size="4">Sign up here</font><br/><br/><br/><br/><br/><br/>
+<font face="cinzel">
+<body background="C:\Users\kethmina\Desktop\assignment 2/images.jfif" link="#fff" alink="#FFFFFF" vlink="#FFFFFF">
+Password :<input type="password" name="pword" required 
+maxlength="50" minlength="6" > 
+<br> 
+Email : <input type ="email" name"email" required maxlength="100" 
+minlength="5">
